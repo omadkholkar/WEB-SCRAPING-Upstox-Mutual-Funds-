@@ -1,0 +1,476 @@
+,Plan,Fund_Name,p.a Return,Expense Ratio,Current Val
+0,EQUITY,Quant Flexi Cap Fund, 24.5,0.58,11 L
+1,EQUITY,Quant Tax Plan, 26.7,0.57,11.6
+2,EQUITY,ICICI Prudential Value Discovery Fund, 19.5,1.22,9.76
+3,EQUITY,ICICI Prudential Large & Mid Cap Fund, 18.0,1.08,9.4 
+4,HYBRID,Edelweiss Arbitrage Fund, 5.44,0.37,6.88
+5,DEBT,Axis Strategic Bond Fund, 6.97,0.39,7.15
+6,DEBT,Nippon India Money Market Fund, 5.61,0.21,6.91
+7,DEBT,Axis Corporate Debt Fund, 6.55,0.22,7.08
+8,DEBT,ICICI Prudential Short Term Fund, 7.19,0.39,7.19
+9,HYBRID,SBI Conservative Hybrid Fund, 9.8%,0.57,7.67
+10,DEBT,ICICI Prudential Gilt Fund,7.20%,0.56,7.19
+11,DEBT,ICICI Prudential Credit Risk Fund,7.68%,0.88,7.28
+12,DEBT,Mirae Asset Overnight Fund,.A.,0.11,.A.
+13,DEBT,BHARAT Bond FOF - April 2023,.A.,0.06,.A.
+14,DEBT,HDFC Floating Rate Debt Fund,6.31%,0.26,7.03
+15,DEBT,Quant Liquid Fund,5.38%,0.29,6.87
+16,DEBT,ICICI Prudential Banking & PSU Debt Fund,6.62%,0.38,7.09
+17,DEBT,ICICI Prudential Ultra Short Term Fund,6.07%,0.39,6.99
+18,EQUITY,Kotak Bluechip Fund,13.85,0.64,8.48
+19,DEBT,SBI Magnum Income Fund,6.96%, 0.8,7.15
+20,EQUITY,HDFC Small Cap Fund,21.68, 0.8,10.2
+21,HYBRID,HDFC Retirement Savings Fund - Hybrid Equity Plan,14.34,1.03,8.58
+22,DEBT,Aditya Birla Sun Life Liquid Fund,4.90%,0.21,6.79
+23,DEBT,Sundaram Liquid Fund,4.32%,0.17,6.69
+24,HYBRID,ICICI Prudential Equity & Debt Fund,18.09, 1.2,9.41
+25,DEBT,PGIM India Liquid Fund,4.88%,0.16,6.79
+26,EQUITY,SBI Magnum Midcap Fund,20.41,0.97,9.96
+27,HYBRID,Aditya Birla Sun Life Regular Savings Fund,8.96%,0.92,7.52
+28,HYBRID,Tata Arbitrage Fund,.A.,0.28,.A.
+29,DEBT,Edelweiss Liquid Fund,4.90%,0.15,6.79
+30,HYBRID,Kotak Debt Hybrid Fund,10.56,0.44,7.82
+31,DEBT,UTI Dynamic Bond Fund,8.52%,0.79,7.43
+32,DEBT,Invesco India Credit Risk Fund,6.02%,0.28,6.98
+33,DEBT,HDFC Banking and PSU Debt Fund,6.39%,0.39,7.05
+34,DEBT,SBI Magnum Low Duration Fund,5.66%, 0.4,6.92
+35,EQUITY,Navi Large & Midcap Fund,15.02,0.35,8.73
+36,DEBT,Nippon India Liquid Fund,4.87%, 0.2,6.79
+37,EQUITY,Sundaram Multi Cap Fund,14.33,0.97,8.58
+38,EQUITY,Quant Focused Fund,16.83,0.57,9.13
+39,DEBT,Axis Treasury Advantage Fund,5.90%,0.29,6.96
+40,EQUITY,Nippon India Retirement Fund - Wealth Creation Scheme,9.92%,1.03,7.7 
+41,DEBT,Tata Money Market Fund,5.35%,0.17,6.87
+42,EQUITY,ICICI Prudential Bluechip Fund,14.34,1.06,8.58
+43,DEBT,Bandhan All Seasons Bond Fund,6.14%,0.17,7 La
+44,DEBT,Sundaram Ultra Short Duration Fund,4.89%,0.17,6.79
+45,EQUITY,Nippon India Large Cap Fund,15.35,1.01,8.8 
+46,DEBT,Aditya Birla Sun Life Income Fund,6.59%,0.49,7.08
+47,EQUITY,SBI Large & Midcap Fund,17.12,0.99,9.19
+48,HYBRID,Quant Absolute Fund,22.00,0.56,10.3
+49,HYBRID,Tata Balanced Advantage Fund,.A.,0.29,.A.
+50,DEBT,PGIM India Money Market Fund,.A.,0.15,.A.
+51,HYBRID,UTI Arbitrage Fund,5.16%,0.35,6.83
+52,DEBT,Axis Money Market Fund,.A.,0.21,.A.
+53,HYBRID,UTI Retirement Benefit Pension Fund,9.83%,1.06,7.68
+54,EQUITY,HSBC Value Fund,16.82,0.84,9.12
+55,EQUITY,Tata Small Cap Fund,.A.,0.29,.A.
+56,HYBRID,ICICI Prudential Retirement Fund - Hybrid Aggressive Plan,.A.,1.12,.A.
+57,HYBRID,HDFC Equity Savings Fund,9.84%, 1.1,7.68
+58,HYBRID,Quant Multi Asset Fund,24.28,0.56,10.9
+59,DEBT,Nippon India Low Duration Fund,6.02%,0.37,6.98
+60,EQUITY,SBI Long Term Equity Fund,15.24,1.07,8.78
+61,DEBT,Kotak Dynamic Bond Fund,6.54%, 0.4,7.08
+62,DEBT,Aditya Birla Sun Life Dynamic Bond Fund,6.32%,0.64,7.04
+63,EQUITY,Templeton India Value Fund,19.35,0.91,9.7 
+64,EQUITY,Tata Retirement Savings Progressive Plan,9.72%,0.67,7.66
+65,DEBT,Kotak Corporate Bond Fund,6.13%,0.32,7 La
+66,EQUITY,Bandhan Core Equity Fund,14.92,0.87,8.71
+67,EQUITY,Franklin India Flexi Cap Fund,15.34, 1.1,8.8 
+68,DEBT,Axis Banking & PSU Debt Fund,6.11%,0.33,7 La
+69,HYBRID,DSP Equity Savings Fund,8.82%, 0.4,7.49
+70,DEBT,Aditya Birla Sun Life Corporate Bond Fund,6.66%,0.31,7.1 
+71,EQUITY,Nippon India Focused Equity Fund,15.11,1.21,8.75
+72,DEBT,Kotak Bond Fund,6.57%,0.63,7.08
+73,EQUITY,Kotak Small Cap Fund,23.33,0.59,10.6
+74,DEBT,Tata Ultra Short Term Fund,.A.,0.25,.A.
+75,DEBT,Aditya Birla Sun Life Banking & PSU Debt Fund,6.41%,0.37,7.05
+76,HYBRID,Edelweiss Aggressive Hybrid Fund,14.90,0.36,8.7 
+77,HYBRID,Kotak Equity Arbitrage Fund,5.36%,0.43,6.87
+78,EQUITY,Invesco India Multicap Fund,14.14,0.65,8.54
+79,EQUITY,HSBC Small Cap Fund,22.26,0.77,10.4
+80,EQUITY,Aditya Birla Sun Life Retirement Fund - The 30s Plan,.A.,1.06,.A.
+81,EQUITY,Edelweiss Large Cap Fund,13.82,0.93,8.48
+82,EQUITY,Quantum Equity FoF Scheme,10.76,0.51,7.86
+83,EQUITY,HDFC Flexi Cap Fund,17.99, 1.0,9.39
+84,EQUITY,Edelweiss Small Cap Fund,.A.,0.49,.A.
+85,DEBT,Canara Robeco Income Fund,5.89%,0.75,6.96
+86,DEBT,BHARAT Bond FOF - April 2030,.A.,0.06,.A.
+87,DEBT,Nippon India Floating Rate Fund,6.40%,0.27,7.05
+88,DEBT,SBI Banking and PSU Fund,5.88%,0.35,6.96
+89,DEBT,DSP Banking & PSU Debt Fund,6.01%,0.33,6.98
+90,DEBT,HSBC Medium Duration Fund,6.48%, 0.4,7.06
+91,DEBT,Nippon India Banking & PSU Debt Fund,6.48%,0.33,7.06
+92,DEBT,HDFC Money Market Fund,5.66%,0.21,6.92
+93,DEBT,Aditya Birla Sun Life Savings Fund,5.82%,0.34,6.95
+94,HYBRID,Mirae Asset Equity Savings Fund,.A.,0.41,.A.
+95,DEBT,Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme,6.07%,0.27,6.99
+96,EQUITY,PGIM India ELSS Tax Saver Fund,16.53, 1.0,9.06
+97,EQUITY,HDFC Top 100 Fund,13.96,1.11,8.51
+98,EQUITY,Franklin India Equity Advantage Fund,11.92,1.37,8.09
+99,EQUITY,Nippon India Nifty Next 50 Junior BeES FoF,.A.,0.02,.A.
+100,EQUITY,HSBC Flexi Cap Fund,12.43,1.23,8.19
+101,DEBT,Nippon India Corporate Bond Fund,6.45%,0.32,7.06
+102,HYBRID,Aditya Birla Sun Life Balanced Advantage Fund,10.37,0.61,7.78
+103,EQUITY,Mirae Asset Focused Fund,.A.,0.51,.A.
+104,HYBRID,Bandhan Equity Savings Fund,7.42%,0.38,7.23
+105,HYBRID,SBI Multi Asset Allocation Fund,10.60,0.88,7.83
+106,HYBRID,HDFC Hybrid Debt Fund,9.39%,1.33,7.6 
+107,DEBT,Nippon India Credit Risk Fund,5.85%,0.98,6.95
+108,EQUITY,Kotak Emerging Equity Fund,19.62,0.49,9.77
+109,EQUITY,HDFC Mid-Cap Opportunities Fund,18.81,0.95,9.58
+110,DEBT,SBI Overnight Fund,4.37%, 0.1,6.7 
+111,DEBT,Kotak Bond Short-term Fund,6.30%,0.36,7.03
+112,DEBT,DSP Short-term Fund,5.87%, 0.3,6.96
+113,DEBT,Canara Robeco Overnight Fund,.A., 0.1,.A.
+114,DEBT,UTI Overnight Fund,4.39%,0.07,6.7 
+115,EQUITY,Franklin India Focused Equity Fund,15.99,1.16,8.94
+116,DEBT,Kotak Floating Rate Fund,.A.,0.22,.A.
+117,HYBRID,Axis Retirement Savings Fund - Conservative Plan,.A.,0.43,.A.
+118,DEBT,Invesco India Overnight Fund,.A.,0.09,.A.
+119,DEBT,PGIM India Gilt Fund,5.96%,0.39,6.97
+120,DEBT,HDFC Credit Risk Debt Fund,7.39%,0.95,7.23
+121,HYBRID,HDFC Hybrid Equity Fund,14.03,1.09,8.52
+122,DEBT,Tata Overnight Fund,.A.,0.09,.A.
+123,DEBT,Tata Short-term Bond Fund,5.91%,0.37,6.96
+124,DEBT,Sundaram Overnight Fund,.A., 0.1,.A.
+125,DEBT,SBI Dynamic Bond Fund,6.80%,0.87,7.12
+126,HYBRID,HSBC Equity Savings Fund,9.04%,0.62,7.53
+127,HYBRID,Sundaram Balanced Advantage Fund,7.65%, 0.6,7.27
+128,DEBT,Kotak Medium Term Fund,6.34%,0.58,7.04
+129,HYBRID,Sundaram Aggressive Hybrid Fund,11.41,0.65,7.99
+130,EQUITY,SBI Flexicap Fund,12.46,0.85,8.2 
+131,HYBRID,Edelweiss Balanced Advantage Fund,12.14,0.51,8.13
+132,EQUITY,Tata Focused Equity Fund,.A.,0.45,.A.
+133,HYBRID,Canara Robeco Conservative Hybrid Fund,8.82%,0.57,7.49
+134,HYBRID,Tata Retirement Savings Moderate Fund,9.73%,0.68,7.66
+135,EQUITY,UTI Value Opportunities Fund,13.86,1.15,8.48
+136,DEBT,Bandhan Dynamic Bond Fund,6.28%,0.76,7.03
+137,DEBT,Invesco India Treasury Advantage Fund,5.62%,0.32,6.91
+138,EQUITY,Mirae Asset Large Cap Fund,12.50,0.54,8.21
+139,DEBT,ICICI Prudential Liquid Fund,4.83%, 0.2,6.78
+140,EQUITY,Aditya Birla Sun Life Flexi Cap Fund,11.90,0.86,8.08
+141,DEBT,DSP Ultra Short Fund,5.17%, 0.3,6.84
+142,DEBT,Tata Liquid Fund,4.84%,0.21,6.78
+143,DEBT,SBI Liquid Fund,4.81%,0.18,6.78
+144,DEBT,HDFC Liquid Fund,4.79%, 0.2,6.77
+145,HYBRID,SBI Equity Savings Fund,8.44%,0.67,7.42
+146,DEBT,DSP Credit Risk Fund,6.41%,0.38,7.05
+147,DEBT,Mirae Asset Cash Management Fund,4.85%,0.14,6.78
+148,DEBT,Baroda BNP Paribas Dynamic Bond Fund,6.03%,0.71,6.98
+149,DEBT,HSBC Dynamic Bond Fund,5.70%,0.29,6.93
+150,EQUITY,SBI Focused Equity Fund,12.20,0.69,8.14
+151,DEBT,UTI Gilt Fund,5.83%,0.68,6.95
+152,EQUITY,Quant Large and Mid Cap Fund,18.21,0.56,9.44
+153,EQUITY,UTI Mid Cap Fund,16.12,0.99,8.97
+154,HYBRID,Franklin India Debt Hybrid Fund,7.00%,0.57,7.16
+155,HYBRID,Baroda BNP Paribas Conservative Hybrid Fund,7.26%,0.78,7.2 
+156,DEBT,Bandhan Bond Fund Medium Term Plan,5.60%,0.76,6.91
+157,DEBT,UTI Credit Risk Fund,2.98%,0.84,6.47
+158,HYBRID,Nippon India Equity Savings Fund,4.96%,0.69,6.8 
+159,EQUITY,Canara Robeco Bluechip Equity Fund,14.17,0.48,8.55
+160,DEBT,HSBC Credit Risk Fund,5.45%,0.85,6.88
+161,DEBT,HSBC Gilt Fund,5.94%,0.48,6.97
+162,DEBT,SBI Corporate Bond Fund,.A.,0.35,.A.
+163,EQUITY,Canara Robeco Equity Tax Saver Fund,15.92,0.64,8.92
+164,HYBRID,Bandhan Arbitrage Fund,5.16%,0.37,6.83
+165,HYBRID,DSP Arbitrage Fund,5.06%,0.35,6.82
+166,DEBT,UTI Corporate Bond Fund,.A.,0.25,.A.
+167,DEBT,UTI Banking & PSU Debt Fund,6.69%,0.25,7.1 
+168,DEBT,SBI Magnum Ultra Short Duration Fund,5.31%,0.31,6.86
+169,DEBT,Bandhan Money Manager Fund,5.25%,0.22,6.85
+170,DEBT,Franklin India Savings Fund,5.44%, 0.1,6.88
+171,DEBT,UTI Treasury Advantage Fund,5.84%,0.34,6.95
+172,EQUITY,SBI Small Cap Fund,21.58, 0.7,10.2
+173,EQUITY,Nippon India Vision Fund,13.34,1.56,8.38
+174,EQUITY,Canara Robeco Flexi Cap Fund,14.01,0.55,8.52
+175,EQUITY,Bandhan Flexi Cap Fund,10.05, 1.2,7.72
+176,DEBT,Nippon India Strategic Debt Fund,2.49%, 1.4,6.39
+177,EQUITY,Tata Midcap Growth Fund,16.77,0.98,9.11
+178,HYBRID,Franklin India Equity Hybrid Fund,12.27, 1.2,8.16
+179,EQUITY,PGIM India Large Cap Fund,11.69,0.98,8.04
+180,DEBT,Invesco India Short Term Fund,5.85%,0.35,6.95
+181,HYBRID,Mirae Asset Hybrid Equity Fund,12.20,0.36,8.14
+182,DEBT,Kotak Credit Risk Fund,5.58%,0.74,6.91
+183,EQUITY,DSP Focus Fund,8.83%,1.08,7.49
+184,DEBT,Tata Banking & PSU Debt Fund,.A.,0.23,.A.
+185,DEBT,Canara Robeco Dynamic Bond Fund,5.63%,0.66,6.92
+186,DEBT,Baroda BNP Paribas Low Duration Fund,5.88%,0.39,6.96
+187,DEBT,DSP Strategic Bond Fund,6.10%,0.47,7 La
+188,EQUITY,Motilal Oswal Long Term Equity Fund,13.56,0.78,8.42
+189,HYBRID,HSBC Conservative Hybrid Fund,7.45%,1.34,7.24
+190,DEBT,Canara Robeco Savings Fund,5.25%,0.31,6.85
+191,HYBRID,Axis Regular Saver Fund,7.26%,0.86,7.2 
+192,EQUITY,DSP Small Cap Fund,20.16, 0.9,9.9 
+193,EQUITY,HSBC Large and Mid Cap Fund,.A.,1.08,.A.
+194,HYBRID,Edelweiss Equity Savings Fund,8.95%, 0.7,7.51
+195,EQUITY,Kotak Flexicap Fund,12.50,0.68,8.21
+196,DEBT,PGIM India Banking & PSU Debt Fund,6.18%,0.25,7.01
+197,DEBT,Bandhan Corporate Bond Fund,5.97%,0.31,6.97
+198,HYBRID,ICICI Prudential Equity Arbitrage Fund,5.17%,0.39,6.84
+199,DEBT,Sundaram Banking & PSU Debt Fund,5.18%,0.19,6.84
+200,HYBRID,PGIM India Arbitrage Fund,4.91%,0.33,6.79
+201,DEBT,Bandhan GSF Investment Fund,6.70%,0.62,7.1 
+202,HYBRID,Canara Robeco Equity Hybrid Fund,12.28,0.63,8.16
+203,DEBT,Baroda BNP Paribas Corporate Bond Fund,4.44%,0.32,6.71
+204,EQUITY,Sundaram Large and Mid Cap Fund,13.04,0.72,8.32
+205,EQUITY,DSP Top 100 Equity Fund,9.81%,1.27,7.68
+206,DEBT,Canara Robeco Ultra Short Term Fund,4.84%, 0.4,6.78
+207,HYBRID,SBI Arbitrage Opportunities Fund,5.12%,0.36,6.83
+208,DEBT,DSP Corporate Bond Fund,.A.,0.25,.A.
+209,EQUITY,Bandhan Emerging Businesses Fund,.A., 0.7,.A.
+210,EQUITY,Sundaram Focused Fund,13.78,1.21,8.47
+211,EQUITY,Canara Robeco Emerging Equities Fund,14.59, 0.6,8.64
+212,DEBT,Canara Robeco Gilt Fund,5.82%,0.54,6.95
+213,EQUITY,Baroda BNP Paribas Midcap Fund,17.79,0.59,9.34
+214,HYBRID,Axis Retirement Savings Fund - Dynamic Plan,.A., 0.6,.A.
+215,DEBT,ICICI Prudential Savings Fund,6.02%, 0.4,6.98
+216,HYBRID,Aditya Birla Sun Life Equity Savings Fund,7.07%,1.21,7.17
+217,HYBRID,Navi Equity Hybrid Fund,.A.,0.42,.A.
+218,DEBT,Invesco India Banking & PSU Debt Fund,5.19%,0.28,6.84
+219,DEBT,Axis Dynamic Bond Fund,6.49%,0.26,7.07
+220,DEBT,HSBC Banking and PSU Debt Fund,5.43%,0.23,6.88
+221,EQUITY,Axis Focused 25 Fund,6.00%,0.74,6.98
+222,EQUITY,HSBC Midcap Fund,12.64,0.74,8.23
+223,HYBRID,Invesco India Equity Savings Fund,.A.,0.63,.A.
+224,EQUITY,HSBC Large Cap Fund,11.40,1.26,7.98
+225,DEBT,HSBC Low Duration Fund,5.50%,0.25,6.89
+226,EQUITY,Invesco India Largecap Fund,11.85,0.81,8.07
+227,DEBT,Invesco India Gilt Fund,5.14%,0.48,6.83
+228,DEBT,DSP Savings Fund,5.25%,0.25,6.85
+229,HYBRID,DSP Equity & Bond Fund,11.22,0.78,7.95
+230,DEBT,HDFC Overnight Fund,4.35%, 0.1,6.7 
+231,EQUITY,Aditya Birla Sun Life Small Cap Fund,12.60,1.04,8.22
+232,DEBT,DSP Liquidity Fund,4.82%,0.15,6.78
+233,HYBRID,Aditya Birla Sun Life Equity Hybrid '95 Fund,9.09%,1.01,7.54
+234,DEBT,PGIM India Low Duration Fund,3.38%,0.35,6.54
+235,EQUITY,Motilal Oswal Flexi Cap Fund,5.11%,0.96,6.82
+236,EQUITY,Franklin India Prima Fund,13.15,1.06,8.34
+237,EQUITY,HSBC ELSS Fund,10.70,1.16,7.85
+238,EQUITY,Invesco India Growth Opportunities Fund,11.67,0.66,8.04
+239,EQUITY,UTI Long Term Equity Fund,12.26,0.95,8.16
+240,EQUITY,DSP Midcap Fund,10.68,0.77,7.84
+241,EQUITY,Baroda BNP Paribas ELSS Fund,10.99,1.12,7.9 
+242,HYBRID,Motilal Oswal Equity Hybrid Fund,.A.,0.91,.A.
+243,DEBT,Parag Parikh Liquid Fund,.A.,0.17,.A.
+244,EQUITY,Aditya Birla Sun Life Tax Relief 96 Fund,5.67%,0.93,6.92
+245,HYBRID,Axis Equity Hybrid Fund,.A.,0.89,.A.
+246,EQUITY,Axis Long Term Equity Fund,7.26%,0.85,7.2 
+247,DEBT,Motilal Oswal Nifty G-sec May 2029 Index Fund,.A.,tio ,.A.
+248,EQUITY,SBI Equity Minimum Variance Fund,.A.,0.41,.A.
+249,EQUITY,HDFC Index S&P BSE Sensex Fund,12.95, 0.2,8.3 
+250,EQUITY,Invesco India - Invesco Global Equity Income FoF,12.77,0.73,8.26
+251,EQUITY,Sundaram Services Fund,.A.,0.89,.A.
+252,COMMODITIES,Invesco India Gold Fund,13.04,0.16,8.31
+253,EQUITY,DSP Nifty 50 Index Fund,.A.,0.24,.A.
+254,EQUITY,ICICI Prudential Dividend Yield Equity Fund,19.44,0.65,9.73
+255,EQUITY,Tata India Pharma & HealthCare Fund,13.74,1.01,8.46
+256,EQUITY,SBI Technology Opportunities Fund,21.13,0.87,10.1
+257,EQUITY,Tata Banking and Financial Services Fund,12.93,0.59,8.29
+258,EQUITY,Quantum India ESG Equity Fund,.A.,0.93,.A.
+259,EQUITY,ICICI Prudential India Opportunities Fund,.A.,0.69,.A.
+260,EQUITY,Sundaram Dividend Yield Fund,13.87,1.02,8.49
+261,COMMODITIES,Quantum Gold Savings Fund,12.88,0.06,8.28
+262,EQUITY,DSP T.I.G.E.R. Fund,19.60,1.34,9.76
+263,EQUITY,SBI Banking & Financial Services Fund,11.11,0.78,7.93
+264,EQUITY,Sundaram Global Brand Fund,10.46,1.42,7.79
+265,EQUITY,Edelweiss US Value Equity Offshore Fund,12.58,1.43,8.22
+266,EQUITY,DSP Global Allocation Fund,7.22%,1.43,7.2 
+267,EQUITY,HDFC Housing Opportunities Fund,12.68,1.28,8.24
+268,EQUITY,Aditya Birla Sun Life Global Emerging Opportunities Fund,8.41%, 0.7,7.41
+269,EQUITY,ICICI Prudential Banking and Financial Services Fund,11.45,1.09,8 La
+270,EQUITY,Aditya Birla Sun Life Banking & Financial Services Fund,11.02,1.17,7.91
+271,HYBRID,Aditya Birla Sun Life Financial Planning FOF Moderate Plan,10.25,0.36,7.76
+272,EQUITY,Nippon India Japan Equity Fund,4.49%,0.94,6.72
+273,EQUITY,Bandhan Infrastructure Fund,18.26,1.15,9.45
+274,EQUITY,Tata Nifty 50 Index Fund,12.51,0.16,8.21
+275,EQUITY,SBI Magnum COMMA Fund,14.26,2.03,8.57
+276,HYBRID,ICICI Prudential Asset Allocator Fund (FOF),13.30,0.27,8.37
+277,EQUITY,Invesco India Contra Fund,13.94,0.62,8.5 
+278,EQUITY,Aditya Birla Sun Life Manufacturing Equity Fund,9.19%,1.56,7.56
+279,COMMODITIES,Axis Gold Fund,13.32,0.17,8.37
+280,DEBT,DSP 10Y G-Sec Fund,4.75%,0.31,6.76
+281,EQUITY,DSP World Gold FoF,8.48%,1.81,7.42
+282,EQUITY,DSP Healthcare Fund,.A.,1.04,.A.
+283,EQUITY,Aditya Birla Sun Life India GenNext Fund,14.47,0.82,8.61
+284,EQUITY,Franklin India Technology Fund,15.03,1.22,8.73
+285,HYBRID,Kotak Multi Asset Allocator FoF - Dynamic,17.42,0.13,9.26
+286,EQUITY,DSP Natural Resources and New Energy Fund,18.12,1.21,9.42
+287,EQUITY,Sundaram Nifty 100 Equal Weight Fund,10.29,0.46,7.77
+288,HYBRID,Franklin India Multi Asset Solution Fund of Funds,7.54%,0.44,7.25
+289,HYBRID,Bandhan Asset Allocation Conservative,6.17%,0.28,7.01
+290,EQUITY,ICICI Prudential FMCG Fund,15.78,1.45,8.89
+291,EQUITY,Mirae Asset Great Consumer Fund,15.64,0.47,8.86
+292,EQUITY,SBI Infrastructure Fund,19.10,1.88,9.65
+293,EQUITY,ICICI Prudential Technology Fund,21.87,0.98,10.3
+294,EQUITY,UTI Nifty Next 50 Index Fund,.A.,0.33,.A.
+295,HYBRID,Aditya Birla Sun Life Financial Planning FOF Conservative Plan,8.71%,0.34,7.47
+296,EQUITY,SBI Nifty Index Fund,12.37,0.18,8.18
+297,EQUITY,Edelweiss Emerging Markets Opportunities Equity Offshore Fund,0.71%,1.43,6.11
+298,EQUITY,Tata S&P BSE Sensex Index Fund,12.76,0.27,8.26
+299,DEBT,ICICI Prudential Long Term Bond Fund,5.45%,1.48,6.88
+300,EQUITY,DSP World Energy Fund,10.26,1.53,7.76
+301,EQUITY,Baroda BNP Paribas India Consumption Fund,.A.,0.81,.A.
+302,EQUITY,SBI Magnum Global Fund,14.20,1.25,8.56
+303,EQUITY,ICICI Prudential Global Advantage Fund (FOF),.A.,0.45,.A.
+304,EQUITY,ICICI Prudential Commodities Fund,.A.,1.06,.A.
+305,EQUITY,ICICI Prudential Manufacturing Fund,.A.,1.75,.A.
+306,EQUITY,Aditya Birla Sun Life Global Excellence Equity FoF,5.11%,0.69,6.83
+307,EQUITY,Tata Resources & Energy Fund,19.15,0.91,9.66
+308,EQUITY,Motilal Oswal Nifty Next 50 Index Fund,.A.,0.33,.A.
+309,EQUITY,Motilal Oswal Nifty 50 Index Fund,.A., 0.1,.A.
+310,EQUITY,Aditya Birla Sun Life PSU Equity Fund,.A.,0.98,.A.
+311,COMMODITIES,HDFC Gold Fund,13.23,0.18,8.35
+312,EQUITY,Edelweiss US Technology Equity FoF,.A.,1.41,.A.
+313,EQUITY,Aditya Birla Sun Life Digital India Fund,21.41,0.88,10.2
+314,EQUITY,HSBC Nifty 50 Index Fund,.A., 0.2,.A.
+315,EQUITY,Motilal Oswal S&P 500 Index Fund,.A.,0.51,.A.
+316,COMMODITIES,Nippon India Gold Savings Fund,12.97,0.19,8.3 
+317,EQUITY,HSBC Focused Fund,.A.,0.82,.A.
+318,EQUITY,ICICI Prudential US Bluechip Equity Fund,15.56,1.22,8.85
+319,DEBT,BHARAT Bond FOF - April 2031,.A.,0.06,.A.
+320,HYBRID,Nippon India Multi Asset Fund,.A.,0.25,.A.
+321,EQUITY,Axis Global Equity Alpha FoF,.A.,0.47,.A.
+322,EQUITY,Bandhan Nifty 50 Index Fund,12.69, 0.1,8.24
+323,EQUITY,ICICI Prudential ESG Fund,.A.,0.81,.A.
+324,DEBT,Mirae Asset Ultra Short Duration Fund,.A.,0.29,.A.
+325,EQUITY,Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund,.A.,0.53,.A.
+326,EQUITY,Mirae Asset Nifty 100 ESG Sector Leaders FoF,.A.,0.17,.A.
+327,EQUITY,UTI Healthcare Fund,11.75, 1.5,8.05
+328,EQUITY,Mirae Asset Healthcare Fund,.A.,0.52,.A.
+329,EQUITY,Mirae Asset Banking and Financial Services Fund,.A.,0.62,.A.
+330,EQUITY,Kotak ESG Opportunities Fund,.A.,0.38,.A.
+331,EQUITY,ICICI Prudential Quant Fund,.A.,0.49,.A.
+332,EQUITY,Kotak Global Emerging Market Fund,3.88%,1.16,6.62
+333,DEBT,ICICI Prudential Constant Maturity Gilt Fund,6.34%,0.23,7.04
+334,EQUITY,UTI Small Cap Fund,.A.,0.53,.A.
+335,EQUITY,Kotak International REIT FOF,.A.,0.49,.A.
+336,EQUITY,ICICI Prudential Business Cycle Fund,.A.,0.34,.A.
+337,HYBRID,PGIM India Balanced Advantage Fund,.A.,0.31,.A.
+338,HYBRID,SBI Retirement Benefit Fund - Aggressive Hybrid Plan,.A.,1.21,.A.
+339,HYBRID,SBI Retirement Benefit Fund - Conservative Hybrid Plan,.A.,1.13,.A.
+340,EQUITY,Axis Greater China Equity FoF,.A.,0.43,.A.
+341,DEBT,Bandhan Government Securities Fund Constant Maturity Plan,5.99%,0.49,6.98
+342,DEBT,Bandhan Floating Rate Fund,.A.,0.34,.A.
+343,EQUITY,Kotak Nifty Next 50 Index Fund,.A.,0.31,.A.
+344,HYBRID,Motilal Oswal Asset Allocation Passive FoF - Conservative,.A.,0.04,.A.
+345,DEBT,Mirae Asset Corporate Bond Fund,.A.,0.47,.A.
+346,DEBT,DSP Floater Fund,.A.,0.24,.A.
+347,DEBT,Edelweiss NIFTY PSU Bond Plus SDL Apr 2026 50:50 Index Fund,.A.,0.16,.A.
+348,EQUITY,Aditya Birla Sun Life Nifty Smallcap 50 Index Fund,.A.,0.28,.A.
+349,EQUITY,ICICI Prudential Nifty 100 Low Volatility 30 ETF FOF,.A.,0.12,.A.
+350,EQUITY,Edelweiss Greater China Equity Off-shore Fund,5.61%,1.44,6.91
+351,EQUITY,Franklin India Feeder - Templeton European Opportunities Fund,3.49%,0.46,6.55
+352,EQUITY,Canara Robeco Focused Equity Fund,.A.,0.43,.A.
+353,EQUITY,Baroda BNP Paribas Funds Aqua FoF,.A.,0.51,.A.
+354,HYBRID,HDFC Asset Allocator FoF,.A.,0.06,.A.
+355,EQUITY,Aditya Birla Sun Life International Equity Plan A,9.39%,1.75,7.6 
+356,EQUITY,SBI Nifty Next 50 Index Fund,.A.,0.34,.A.
+357,EQUITY,Tata Dividend Yield Fund,.A.,0.74,.A.
+358,EQUITY,Kotak Nifty 50 Index Fund,.A.,0.18,.A.
+359,EQUITY,Axis Quant Fund,.A., 0.5,.A.
+360,DEBT,Tata Floating Rate Fund,.A., 0.3,.A.
+361,DEBT,Invesco India Medium Duration Fund,.A., 0.4,.A.
+362,EQUITY,ICICI Prudential Nifty Next 50 Index Fund,7.47%, 0.3,7.24
+363,EQUITY,Navi Nifty 50 Index Fund,.A.,0.06,.A.
+364,EQUITY,Tata Business Cycle Fund,.A.,0.57,.A.
+365,EQUITY,DSP Nifty 50 Equal Weight Index Fund,13.95, 0.4,8.5 
+366,EQUITY,UTI India Consumer Fund,9.29%,1.77,7.58
+367,EQUITY,Nippon India Flexi Cap Fund,.A.,0.69,.A.
+368,EQUITY,Nippon India Quant Fund,14.56, 0.7,8.63
+369,EQUITY,Motilal Oswal Nasdaq 100 FOF Scheme,.A., 0.1,.A.
+370,EQUITY,HDFC NIFTY50 Equal Weight Index Fund,.A., 0.4,.A.
+371,EQUITY,SBI PSU Fund,14.68,1.42,8.66
+372,EQUITY,DSP World Mining Fund,19.26, 1.5,9.68
+373,EQUITY,Axis Value Fund,.A.,1.13,.A.
+374,EQUITY,Kotak Multicap Fund,.A.,0.22,.A.
+375,DEBT,Aditya Birla Sun Life Nifty SDL Plus PSU Bond Sep 2026 60:40 Index Fund,.A., 0.2,.A.
+376,EQUITY,Nippon India Index Nifty 50,12.46, 0.2,8.2 
+377,DEBT,Motilal Oswal 5 Year G-Sec FoF,.A.,0.03,.A.
+378,DEBT,Edelweiss NIFTY PSU Bond Plus SDL Apr 2027 50:50 Index,.A.,0.16,.A.
+379,EQUITY,Edelweiss Nifty 50 Index Fund,.A.,0.17,.A.
+380,EQUITY,HDFC NIFTY Next 50 Index Fund,.A., 0.3,.A.
+381,EQUITY,PGIM India Global Select Real Estate Securities FoF,.A.,1.31,.A.
+382,EQUITY,Bandhan Multi Cap Fund,.A.,0.57,.A.
+383,EQUITY,Edelweiss NIFTY Large Mid Cap 250 Index Fund,.A.,0.38,.A.
+384,EQUITY,Quant Value Fund,.A.,0.57,.A.
+385,EQUITY,HDFC Multi Cap Fund,.A.,0.41,.A.
+386,EQUITY,Motilal Oswal MSCI EAFE Top 100 Select Index Fund,.A.,0.51,.A.
+387,EQUITY,Axis Multicap Fund,.A.,0.34,.A.
+388,DEBT,BHARAT Bond ETF FOF - April 2032,.A.,0.06,.A.
+389,EQUITY,DSP Quant Fund,.A.,0.57,.A.
+390,EQUITY,Navi Nifty Next 50 Index Fund,.A.,0.12,.A.
+391,DEBT,SBI CPSE Bond Plus SDL Sep 2026 50:50 Index Fund,.A.,0.18,.A.
+392,DEBT,Axis CRISIL IBX 70:30 CPSE Plus SDL April 2025 Index Fund,.A.,0.15,.A.
+393,EQUITY,Mirae Asset Nifty India Manufacturing ETF FoF,.A.,0.32,.A.
+394,COMMODITIES,Aditya Birla Sun Life Silver ETF FoF,.A.,0.15,.A.
+395,DEBT,Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund,.A., 0.2,.A.
+396,EQUITY,UTI S&P BSE Sensex Index Fund,.A.,0.19,.A.
+397,EQUITY,Navi Nifty Bank Index Fund,.A., 0.1,.A.
+398,EQUITY,Kotak Manufacture in India Fund,.A.,0.57,.A.
+399,EQUITY,Aditya Birla Sun Life Nifty Next 50 Index Fund,.A.,0.35,.A.
+400,EQUITY,Axis Equity ETFs FoF,.A.,0.11,.A.
+401,EQUITY,HDFC Nifty 100 Index Fund,.A., 0.3,.A.
+402,EQUITY,Franklin India Opportunities Fund,15.14,1.79,8.76
+403,EQUITY,Nippon India US Equity Opportunities Fund,9.42%, 1.3,7.6 
+404,EQUITY,ICICI Prudential Nifty Bank Index Fund,.A., 0.2,.A.
+405,EQUITY,UTI S&P BSE Low Volatility Index Fund,.A.,0.44,.A.
+406,EQUITY,Navi Nifty Midcap 150 Index Fund,.A.,0.11,.A.
+407,EQUITY,ICICI Prudential Global Stable Equity Fund (FOF),10.70,1.26,7.85
+408,DEBT,Edelweiss CRISIL PSU Plus SDL 50:50 Oct 2025 Index Fund,.A.,0.17,.A.
+409,EQUITY,Axis Nifty Midcap 50 Index Fund,.A.,0.23,.A.
+410,EQUITY,Aditya Birla Sun Life Pharma & Healthcare Fund,.A.,1.17,.A.
+411,EQUITY,Invesco India - Invesco EQQQ NASDAQ-100 ETF FoF,.A.,0.14,.A.
+412,DEBT,ICICI Prudential Nifty SDL Sep 2027 Index Fund,.A.,0.15,.A.
+413,EQUITY,UTI Nifty Midcap 150 Quality 50 Index Fund,.A., 0.4,.A.
+414,EQUITY,Tata Nifty India Digital ETF FoF,.A.,0.05,.A.
+415,DEBT,Aditya Birla Sun Life CRISIL IBX 60:40 SDL + AAA PSU Apr 2027 Index Fund,.A., 0.2,.A.
+416,HYBRID,Franklin India Dynamic Asset Allocation FoF,11.64,0.46,8.03
+417,HYBRID,Mirae Asset Balanced Advantage Fund,.A.,0.83,.A.
+418,EQUITY,DSP Nifty Midcap 150 Quality 50 Index Fund,.A.,0.05,.A.
+419,DEBT,Aditya Birla Sun Life Long Duration Fund,.A., 0.4,.A.
+420,EQUITY,Quantum Nifty 50 ETF FoF,.A.,0.06,.A.
+421,DEBT,UTI Gilt Fund with 10 year Constant Duration,.A.,tio ,.A.
+422,EQUITY,ICICI Prudential Nifty 200 Momentum 30 Index Fund,.A.,0.34,.A.
+423,EQUITY,ICICI Prudential Nifty IT Index Fund,.A.,0.35,.A.
+424,EQUITY,Motilal Oswal S&P BSE Enhanced Value Index Fund,.A.,0.29,.A.
+425,EQUITY,Tata Housing Opportunities Fund,.A.,0.68,.A.
+426,EQUITY,Mirae Asset Global X Artificial Intelligence & Technology ETF FoF,.A.,tio ,.A.
+427,EQUITY,ICICI Prudential Infrastructure Fund,24.23,1.64,10.9
+428,EQUITY,Sundaram Flexi Cap Fund,.A.,tio ,.A.
+429,COMMODITIES,Axis Silver FoF,.A.,tio ,.A.
+430,EQUITY,Bandhan Nifty100 Low Volatility 30 Index Fund,.A.,0.32,.A.
+431,EQUITY,ICICI Prudential Nifty50 Equal Weight Index Fund,.A.,tio ,.A.
+432,HYBRID,Invesco India Dynamic Equity Fund,8.23%,0.95,7.38
+433,COMMODITIES,Motilal Oswal Gold and Silver ETFs FoF,.A.,0.16,.A.
+434,EQUITY,SBI Nifty Midcap 150 Index Fund,.A., 0.4,.A.
+435,DEBT,SBI CRISIL IBX Gilt Index - June 2036 Fund,.A.,0.28,.A.
+436,DEBT,Aditya Birla Sun Life CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund,.A.,0.19,.A.
+437,HYBRID,Aditya Birla Sun Life Multi - Index FoF,.A.,0.14,.A.
+438,DEBT,SBI CRISIL IBX Gilt Index - April 2029 Fund,.A., 0.2,.A.
+439,EQUITY,Bandhan Transportation and Logistics Fund,.A.,0.81,.A.
+440,EQUITY,Axis NASDAQ 100 FoF,.A.,tio ,.A.
+441,DEBT,Kotak Nifty SDL Plus AAA PSU Bond Jul 2028 60:40 Index Fund,.A.,0.15,.A.
+442,DEBT,ICICI Prudential Nifty G-Sec Dec 2030 Index Fund,.A.,0.16,.A.
+443,COMMODITIES,HDFC Silver ETF FoF,.A., 0.2,.A.
+444,DEBT,Bandhan Crisil IBX Gilt April 2026 Index Fund,.A.,0.15,.A.
+445,DEBT,Mirae Asset Nifty AAA PSU Bond Plus SDL Apr 2026 50:50 Index Fund,.A.,tio ,.A.
+446,EQUITY,Canara Robeco Mid Cap Fund,.A.,tio ,.A.
+447,EQUITY,HDFC Business Cycle Fund,.A.,tio ,.A.
+448,DEBT,Axis Nifty SDL September 2026 Debt Index Fund,.A.,tio ,.A.
+449,DEBT,HDFC Nifty G-sec Dec 2026 Index,.A., 0.2,.A.
+450,DEBT,Bandhan CRISIL IBX 90:10 SDL Plus Gilt- November 2026 Index Fund,.A.,0.15,.A.
+451,HYBRID,Baroda BNP Paribas Multi Asset Fund,.A.,0.37,.A.
+452,EQUITY,Edelweiss Nifty Smallcap 250 Index Fund,.A.,0.41,.A.
+453,DEBT,Bandhan CRISIL IBX 90:10 SDL Plus Gilt-September 2027 Index Fund,.A.,0.15,.A.
+454,DEBT,Nippon India Nifty G-Sec Jun 2036 Maturity Index Fund,.A.,0.16,.A.
+455,DEBT,Aditya Birla Sun Life CRISIL IBX 60:40 SDL + AAA PSU Apr 2026 Index Fund,.A.,tio ,.A.
+456,DEBT,Axis Long Duration Fund,.A.,tio ,.A.
+457,DEBT,HDFC Nifty G-Sec Jun 2027 Index,.A., 0.2,.A.
+458,DEBT,UTI CRISIL SDL Maturity April 2033 Index Fund,.A.,tio ,.A.
+459,DEBT,SBI Long Duration Fund,.A.,0.22,.A.
+460,DEBT,Quant Gilt Fund,.A.,0.51,.A.
+461,DEBT,Tata Nifty G-Sec Dec 2029 Index Fund,.A.,tio ,.A.
+462,HYBRID,Aditya Birla Sun Life Multi Asset Allocation Fund,.A.,tio ,.A.
+463,DEBT,Baroda BNP Paribas Nifty SDL December 2026 Index Fund,.A.,0.15,.A.
+464,DEBT,HDFC Long Duration Debt Fund,.A.,0.25,.A.
+465,DEBT,Aditya Birla Sun Life CRISIL IBX AAA Mar 2024 Index Fund,.A.,tio ,.A.
+466,DEBT,DSP Nifty SDL Plus G-Sec Sep 2027 50:50 Index Fund,.A.,0.15,.A.
+467,EQUITY,Kotak Banking & Financial Services Fund,.A.,tio ,.A.
+468,EQUITY,Mirae Asset Flexi Cap Fund,.A.,tio ,.A.
+469,DEBT,Axis CRISIL IBX 50:50 Gilt Plus SDL September 2027 Index Fund,.A.,tio ,.A.
+470,DEBT,PGIM India CRISIL IBX Gilt Index - Apr 2028 Fund,.A.,tio ,.A.
+471,DEBT,Nippon India Nifty SDL Plus G-Sec - Jun 2029 Maturity 70:30 Index Fund,.A.,tio ,.A.
+472,EQUITY,HDFC MNC Fund,.A.,tio ,.A.
+473,DEBT,HDFC Nifty SDL Oct 2026 Index Fund,.A.,tio ,.A.
+474,DEBT,HDFC NIFTY G-Sec Jun 2036 Index Fund,.A.,tio ,.A.
